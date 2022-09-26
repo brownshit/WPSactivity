@@ -5,10 +5,10 @@ by 원종찬, 조영진, 윤관
 유의사항은 location에 대한 permission을 allow해줘야 한다.
 
 <br> - 자바파일경로<br>
-WPSactivity/app/src/main/java/com/practice/wpsactivity/
+WPSactivity/app/src/main/java/com/practice/wpsactivity/<br>
 <br> - layout xml파일경로<br>
-WPSactivity/app/src/main/res/layout/
+WPSactivity/app/src/main/res/layout/<br>
 <br> - gradle파일경로<br>
-WPSactivity/app/build.gradle/
+WPSactivity/app/build.gradle/<br>
 <br> - manifest파일경로<br>
-
+<br>
