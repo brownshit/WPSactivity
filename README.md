@@ -1,6 +1,8 @@
 # WPSactivity
 by 원종찬, 조영진, 윤관
 
+![WPS이미지](https://user-images.githubusercontent.com/100653363/192241498-55ab893a-b048-4917-b7f3-4d4b0b05d948.PNG)
+
 해당 파일들은 WPS의 개인 단말기로 들어갈 앱 부분이다.
 유의사항은 location에 대한 permission을 allow해줘야 한다.
 
