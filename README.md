@@ -14,3 +14,4 @@ WPSactivity/app/src/main/res/layout/<br>
 WPSactivity/app/build.gradle/<br>
 <br> - manifest파일경로<br>
 WPSactivity/app/src/main/<br>
+<br><br>WPS.apk파일은 해당 안드로이드 스튜디오 파일들을 빌드하면 얻어지는 apk파일이다.
